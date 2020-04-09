@@ -13,7 +13,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
+[image1]: ./examples/carND_lanes.png "resulting image"
 
 ---
 
@@ -37,7 +37,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
  - calculated start and end coordinates for the average lines
  - drawn 2 lines for left and right sides
 
-If you'd like to include images to show how the pipeline works, here is how to include an image: 
+Here is the result I obtained for a test image:
 
 ![alt text][image1]
 
